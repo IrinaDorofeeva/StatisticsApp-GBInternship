@@ -29,4 +29,8 @@ PersistentManaged decides from which place (server or core date) to get data for
 Graphic Charts View Controller shows graphical representation of statistics. It is implemented by using external library (CocoaPods) called Charts created by D. Gindi 
 https://github.com/danielgindi/Charts
 
+
 [![Demo CountPages alpha](https://j.gifs.com/Anz4OO.gif)](https://youtu.be/yV5MeBYCD_A)
+
+
+This project is the part of the Geek Brains Inernship Project: https://github.com/ValeriMikhailov/GB-internship
