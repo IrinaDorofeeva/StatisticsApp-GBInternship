@@ -8,8 +8,6 @@ Statistics App downloads statistics data from server (counts of politics mention
 
 
 
-[![Demo CountPages alpha](https://gifs.com/gif/general-statistics-view-Anz4OO)](https://youtu.be/yV5MeBYCD_A)
 
-[![Demo CountPages alpha](https://gifs.com/gif/daily-statistics-view-8qn4Km)](https://youtu.be/yV5MeBYCD_A)
 
-[![Demo CountPages alpha](https://gifs.com/gif/login-Q1l4Ll)](https://youtu.be/yV5MeBYCD_A)
+[![Demo CountPages alpha](https://j.gifs.com/Anz4OO.gif)](https://youtu.be/yV5MeBYCD_A)
